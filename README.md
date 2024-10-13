@@ -1,4 +1,5 @@
 Furniture Store Using React and Django
+
 This project is a full-stack web application for a furniture store, combining the power of React for the frontend and Django for the backend. It allows users to browse, view, and purchase furniture items, and provides an admin interface to manage products.
 
  
